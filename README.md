@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ![mertcan's github stats](https://github-readme-stats.vercel.app/api?username=karamanmertcan&show_icons=true)
 ![mertcan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanmertcan&layout=compact)
+![mertcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karamanmertcan&count_private=true)
+
 
 
 
