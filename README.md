@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
 **karamanmertcan/karamanmertcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[mertcan's github stats](https://github-readme-stats.vercel.app/api?username=karamanmertcan&show_icons=true)
+![mertcan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanmertcan&layout=compact)
+
+
+
