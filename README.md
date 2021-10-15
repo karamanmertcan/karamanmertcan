@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**karamanmertcan/karamanmertcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**karamanmertcan/karamanmertcan**
 
 
 Here are some ideas to get you started:
