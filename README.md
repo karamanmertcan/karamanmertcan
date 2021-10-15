@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.mertcankaraman.com
 
 <img src="https://img.icons8.com/office/40/000000/react.png"/>
-
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
 
 
