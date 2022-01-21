@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on LetWOM
-- 🌱 I’m currently learning Express, MongoDB, React Native and some SvelteKit
+- 🌱 I’m currently learning NestJs React Native and some SvelteKit
 - 👯 I’m looking to collaborate on React and React Native Projects
 - 📫 How to reach me: www.mertcankaraman.com
 
