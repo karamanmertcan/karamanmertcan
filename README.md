@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/sass.png" style="height:48px;width:48px;"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="height:48px;width:48px;"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="height:48px;width:48px;"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="height:48px;width:48px;"/ >
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="height:48px;width:48px;"/>
 <img src="https://img.icons8.com/color/48/000000/material-ui.png" style="height:48px;width:48px;"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png" style="height:48px;width:48px;"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png" style="height:48px;width:48px;" />
