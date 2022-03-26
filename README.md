@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanmertcan&hide=css,html)](https://github.com/karamanmertcan/github-readme-stats)
 ![mertcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karamanmertcan&count_private=true)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=karaman_mertcan&count={1})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=karaman_mertcan&count={count})
 
 
 
