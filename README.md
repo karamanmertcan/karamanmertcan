@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/react-native.png" style="height:48px;width:48px;"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png" style="height:48px;width:48px;" />
 <img style="height:48px;width:48px;" src="https://img.icons8.com/doodle/344/svetle.png"/>
-
+<img style="height:48px;width:48px;" src="https://img.icons8.com/color/344/vue-js.png"/>
 
 
 
