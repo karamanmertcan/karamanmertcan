@@ -9,7 +9,7 @@ Hello my name is Mertcan. I'm a MERN stack developer and i have a startup which 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [www.mertcankaraman.com](http://www.mertcankaraman.com)
 * ✉️  You can contact me at [mertcankaraman2000@gmail.com](mailto:mertcankaraman2000@gmail.com)
-* 🚀  I'm currently working on [smesh.network](http://smesh.network)
+* 🚀  I'm currently working @freelance
 * 🧠  I'm learning Go.
 * 🤝  I'm open to collaborating on React, React Native and Node js projects.
 
