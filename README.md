@@ -1,7 +1,7 @@
 Hi 👋 My name is Mertcan karaman
 ================================
 
-Co-Founder at Smesh and MERN Developer
+MERN Developer
 --------------------------------------
 
 Hello my name is Mertcan. I'm a MERN stack developer and i have a startup which name is Smesh.
