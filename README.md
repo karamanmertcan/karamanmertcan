@@ -4,7 +4,7 @@ Hi 👋 My name is Mertcan karaman
 MERN Developer
 --------------------------------------
 
-Hello my name is Mertcan. I'm a MERN stack developer and i have a startup which name is Smesh.
+Hello my name is Mertcan. I'm a MERN stack developer.
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [www.mertcankaraman.com](http://www.mertcankaraman.com)
