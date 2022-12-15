@@ -1,10 +1,10 @@
-Hi 👋 My name is Mertcan karaman
+Hi 👋 My name is Mertcan Karaman
 ================================
 
-MERN Developer
+Software Developer
 --------------------------------------
 
-Hello my name is Mertcan. I'm a MERN stack developer.
+Hello my name is Mertcan. I'm a Software developer.
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [www.mertcankaraman.com](http://www.mertcankaraman.com)
