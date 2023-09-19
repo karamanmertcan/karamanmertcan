@@ -9,7 +9,7 @@ Hello my name is Mertcan. I'm a Software developer.
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [www.mertcankaraman.com](http://www.mertcankaraman.com)
 * ✉️  You can contact me at [mertcankaraman2000@gmail.com](mailto:mertcankaraman2000@gmail.com)
-* 🚀  I'm currently working @freelance
+* 🚀  I'm currently working @artistanbul.io
 * 🧠  I'm learning Go.
 * 🤝  I'm open to collaborating on React, React Native and Node js projects.
 
