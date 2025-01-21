@@ -7,7 +7,7 @@ Software Developer
 Hello my name is Mertcan. I'm a Software developer.
 
 * 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [www.mertcankaraman.com](http://www.mertcankaraman.dev)
+* 🖥️  See my portfolio at [www.mertcankaraman.dev](http://www.mertcankaraman.dev)
 * ✉️  You can contact me at [mertcankaraman2000@gmail.com](mailto:mertcankaraman2000@gmail.com)
 * 🚀  I'm currently working @artistanbul.io
 * 🧠  I'm learning Go.
